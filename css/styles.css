@@ -44,7 +44,7 @@ a {
 .section {
   padding-top: 120px;
   padding-bottom: 120px;
-  margin: 0;
+  margin: 0 auto;
   /* outline: solid #404bbf; */
 }
 
